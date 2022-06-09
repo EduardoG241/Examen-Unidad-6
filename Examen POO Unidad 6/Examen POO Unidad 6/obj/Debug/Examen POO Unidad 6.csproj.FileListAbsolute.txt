@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Examen POO Unidad 6\Examen POO Unidad 6\bin\Debug\Examen POO Unidad 6.exe.config
+C:\Users\eduar\source\repos\Examen POO Unidad 6\Examen POO Unidad 6\bin\Debug\Examen POO Unidad 6.exe
+C:\Users\eduar\source\repos\Examen POO Unidad 6\Examen POO Unidad 6\bin\Debug\Examen POO Unidad 6.pdb
+C:\Users\eduar\source\repos\Examen POO Unidad 6\Examen POO Unidad 6\obj\Debug\Examen POO Unidad 6.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Examen POO Unidad 6\Examen POO Unidad 6\obj\Debug\Examen POO Unidad 6.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Examen POO Unidad 6\Examen POO Unidad 6\obj\Debug\Examen POO Unidad 6.exe
+C:\Users\eduar\source\repos\Examen POO Unidad 6\Examen POO Unidad 6\obj\Debug\Examen POO Unidad 6.pdb
